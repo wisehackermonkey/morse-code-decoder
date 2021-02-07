@@ -10,6 +10,7 @@
             "includePath": [
                 "c:/Users/oranm/github/morse-code-decoder/include",
                 "c:/Users/oranm/github/morse-code-decoder/src",
+                "c:/Users/oranm/github/morse-code-decoder/.pio/libdeps/pro16MHzatmega328/LiquidCrystal/src",
                 "C:/Users/oranm/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/oranm/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                 "C:/Users/oranm/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -25,6 +26,7 @@
                 "path": [
                     "c:/Users/oranm/github/morse-code-decoder/include",
                     "c:/Users/oranm/github/morse-code-decoder/src",
+                    "c:/Users/oranm/github/morse-code-decoder/.pio/libdeps/pro16MHzatmega328/LiquidCrystal/src",
                     "C:/Users/oranm/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/oranm/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                     "C:/Users/oranm/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
