@@ -343,7 +343,7 @@ void setup() {
   Serial.println("-----------------");
   lcd.begin(16, 1);
   // Print a message to the LCD.
-  lcd.print("_____________");
+  lcd.print("_________________");
   da();
   dit();
   da();
@@ -401,6 +401,10 @@ void loop() {
       i += 1;
       if (i > 16) {
         i = 0;
+              lcd.setCursor(i, 1);
+
+          lcd.print("                 ");
+
       }
       Serial.print(')');
     }
